@@ -440,26 +440,26 @@ header .navbar a:hover {
     background: var(--red);
 }
 
-.footer{
+footer{
     background: #000;
     text-align: center;
 }
 
-.footer .share{
+footer .share{
     display: flex;
     gap: 1.5rem;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.footer .credit{
+footer .credit{
     padding: 2.5rem 1rem;
     color: #fff;
     font-weight: normal;
     font-size: 2rem;
 }
 
-.footer .credit span{
+footer .credit span{
     color: var(--red);
 }
 
